@@ -1,10 +1,10 @@
 # Ask me anything!
 
-[![Ask a Question](https://www.joekarlsson.com/boo-ya)](../../issues/new)
+[![Read All Qs](https://user-images.githubusercontent.com/4650739/50391125-7a52fa00-0705-11e9-8bae-f05b7dfdfa2e.png)](../../issues/new)
 
-[![Read all Questions](https://www.joekarlsson.com/allllll-of-them)](../../issues?q=is%3Aissue+is%3Aclosed)
+[![Ask a Q](https://user-images.githubusercontent.com/4650739/50391126-7b842700-0705-11e9-8d1c-7aaf8e2353d2.png)](../../issues?q=is%3Aissue+is%3Aclosed)
 
-[![Read the Great Questions](https://www.joekarlsson.com/grrrrrreat)](../../issues?q=label%3A"Great+Q%21"+is%3Aclosed)
+[![View All Qs](https://user-images.githubusercontent.com/4650739/50391127-7c1cbd80-0705-11e9-8a30-35f96bc3fc52.png)](../../issues?q=label%3A"Great+Q%21"+is%3Aclosed)
 
 I get a lot of questions by email. This way anyone can read the answer!
 

@@ -10,12 +10,17 @@ I get a lot of questions by email. This way anyone can read the answer!
 
 Anything means _anything_ - Personal questions. Making and spending money. Work. Life. Coding. Workflow. Setups.
 
-I am a Software Engineer from the frozen tundra known as Minneapolis, Minnesota. I write code, build teams and gives tech talks. I am is the creator of weird software, including bechdel.io which tells you if a movie script passes the Bechdel Test or not.
+I am a Software Engineer and Developer Advocate from the frozen tundra known as Minneapolis, Minnesota. I write code, build teams and gives tech talks. I am is the creator of weird software, including bechdel.io which tells you if a movie script passes the Bechdel Test or not.
 
 * Location: Minneapolis, MN USA
-* Age: 28
-* Occupation: Technical Lead at Best Buy.com
-* Interests: Web Development, JavaScript, Node, Front End Performance, Technology
+* Age: 29
+* Occupation: Developer Advocate at MongoDB
+* Interests: 
+    Software Engineering
+    NoSQL and MongoDB
+    Web Application Architecture
+    Fun projects I am working on
+    Cats
 * Major: Computer Science
 
 I'm [@JoeKarlsson1](https://twitter.com/JoeKarlsson1) on twitter, I blog at [www.joekarlsson.com](https://www.joekarlsson.com). 
